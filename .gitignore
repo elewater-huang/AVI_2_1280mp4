@@ -1,0 +1,4 @@
+
+# macOS app bundles
+*.app
+.DS_Store
