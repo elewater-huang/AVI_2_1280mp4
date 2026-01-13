@@ -1,4 +1,3 @@
-
-# macOS app bundles
-*.app
 .DS_Store
+*.app
+converted_mp4/
